@@ -11,7 +11,7 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 ## what is done 
 
-### -Project Environment Setup
+### - Project Environment Setup
 - install (express - cors - body-parser).
 - setLocal server.
 - Create API credentials on OpenWeatherMap.com.
