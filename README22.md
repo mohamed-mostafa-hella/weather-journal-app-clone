@@ -11,7 +11,7 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 ### what we are going to do is ....
 
-![process map ](git_img\app.png)
+![process map ](git_img/app.png)
 
 ## what is done 
 
