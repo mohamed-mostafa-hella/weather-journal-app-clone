@@ -8,3 +8,16 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+
+## what is done 
+
+### -Project Environment Setup
+- install (express - cors - body-parser).
+- setLocal server.
+- Create API credentials on OpenWeatherMap.com.
+- change id in HTML.
+- The div with the id, entryHolder should have three child divs with the ids:
+    - date
+    - temp
+    - content
+- Adds an event listener to an existing HTML button from DOM using Vanilla JS.
