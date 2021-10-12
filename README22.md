@@ -9,6 +9,10 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
 
+### what we are going to do is ....
+
+![process map ](git_img\app.png)
+
 ## what is done 
 
 ### - Project Environment Setup
@@ -29,5 +33,11 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 - creating post route Endpoint 
 - saving temp , felling and date in the local api py calling post route
 - return opjectData from local server api
+
+
+### - UPDATE UI Dynamic 
+- add data to udate , utemp , ucontent after final data has been returned
+- adding atripute units to the external api link to converrt temp to celecias unit.
+
 
 
